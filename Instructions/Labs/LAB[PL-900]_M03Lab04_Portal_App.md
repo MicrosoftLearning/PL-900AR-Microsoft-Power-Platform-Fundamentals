@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'لنشاط المعملي 5: كيفية إنشاء مدخل Power Apps'
    module: 'لوحدة 3: بدء استخدام Power Apps'
