@@ -1,7 +1,7 @@
 ﻿---
 lab:
     title: 'لنشاط المعملي 8: كيفية إنشاء روبوت دردشة ينفذ الوظائف الأساسية'
-   module: 'لوحدة 6: مقدمة إلى Power Virtual Agents'
+    module: 'لوحدة 6: مقدمة إلى Power Virtual Agents'
 ---
 
 # الوحدة 6: مقدمة إلى Power Virtual Agents
