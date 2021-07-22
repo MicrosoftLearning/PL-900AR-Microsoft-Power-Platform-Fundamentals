@@ -1,8 +1,30 @@
----
-lab:
-    title: 'النشاط المعملي 4: كيفية إنشاء تطبيق يستند إلى نموذج'
-    module: 'لوحدة 3: بدء استخدام Power Apps'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>النشاط المعملي 4: كيفية إنشاء تطبيق يستند إلى نموذج</div></td>
+  <td><div>لوحدة 3: بدء استخدام Power Apps</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 # الوحدة 3: بدء استخدام Power Apps
 ## النشاط المعملي 3: كيفية إنشاء تطبيق يستند إلى نموذج
