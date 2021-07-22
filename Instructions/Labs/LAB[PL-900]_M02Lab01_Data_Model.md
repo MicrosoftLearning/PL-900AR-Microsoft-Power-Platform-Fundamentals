@@ -1,8 +1,31 @@
----
-lab:
-    title: 'لنشاط المعملي 1: وضع البيانات في نموذج'
-    module: 'لوحدة 2: مقدمة إلى Microsoft Dataverse'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>لنشاط المعملي 1: وضع البيانات في نموذج</div></td>
+  <td><div>لوحدة 2: مقدمة إلى Microsoft Dataverse</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
+
 
 # الوحدة 2: مقدمة إلى Microsoft Dataverse
 ## النشاط المعملي: وضع البيانات في نموذج
