@@ -1,8 +1,30 @@
----
-lab:
-    title: 'لنشاط المعملي 7: كيفية إنشاء لوحة معلومات بسيطة'
-    module: 'لوحدة 5: بدء استخدام Power BI'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>لنشاط المعملي 7: كيفية إنشاء لوحة معلومات بسيطة</div></td>
+  <td><div>لوحدة 5: بدء استخدام Power BI</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 # الوحدة 5: بدء استخدام Power BI
 ## النشاط المعملي: كيفية إنشاء لوحة معلومات بسيطة
