@@ -1,8 +1,30 @@
----
-lab:
-    title: 'لنشاط المعملي 8: كيفية إنشاء روبوت دردشة ينفذ الوظائف الأساسية'
-    module: 'لوحدة 6: مقدمة إلى Power Virtual Agents'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>لنشاط المعملي 8: كيفية إنشاء روبوت دردشة ينفذ الوظائف الأساسية</div></td>
+  <td><div>لوحدة 6: مقدمة إلى Power Virtual Agents</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 # الوحدة 6: مقدمة إلى Power Virtual Agents
 ## النشاط المعملي: كيفية إنشاء روبوت دردشة ينفذ الوظائف الأساسية
